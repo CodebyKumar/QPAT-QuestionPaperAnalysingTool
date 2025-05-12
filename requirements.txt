@@ -4,8 +4,7 @@ python-dotenv>=0.21.0
 
 # PDF processing & conversion
 PyMuPDF>=1.21.1
-fpdf>=1.7.2
-weasyprint>=59.0
+fpdf2
 markdown>=3.4.3
 
 # Google API
