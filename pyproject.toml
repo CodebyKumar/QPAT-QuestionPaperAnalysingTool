@@ -1,0 +1,15 @@
+[project]
+name = "qpat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fpdf>=1.7.2",
+    "google-generativeai>=0.3.0",
+    "markdown>=3.4.3",
+    "pymupdf>=1.21.1",
+    "python-dotenv>=0.21.0",
+    "streamlit>=1.24.0",
+    "weasyprint>=59.0",
+]
